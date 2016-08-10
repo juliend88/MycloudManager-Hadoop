@@ -30,16 +30,16 @@ Dans le cadre du déploiement du cluster hadoop, il nous ai possible de choisir 
 
 * Commencer la création de votre cluster, rendez-vous dans la partie `Data Processing` puis `Clusters` de votre console Hadoop puis cliquez sur `Launch Cluster`, choisissez à présent le type de cluster ainsi que la version, dans cet exemple : plugin `Vanilla` version 2.7.1
 
-![launchcluster](img\launchcluster.png)
+![launchcluster](img/launchcluster.png)
 
 * Sur le deuxième volet renseignez les paramètres que vous souhaitez donner à votre cluster, et surtout dans la partie `Neutron Management Network` renseignez ici le réseau de votre MyCloudManager puis démarrez la création,
 
-![paramcluster](img\paramscluster.png)
+![paramcluster](img/paramscluster.png)
 
 * Une fois votre cluster créé vous pouvez maintenant vous connecter en *ssh* sur l'ensemble des instances qui le compose et copier la commande `curl` qui vous est donnée lors de l'ajout d'une instance dans MyCloudManager,
 
-![addsrv](img\addsrv.png)
-![instancevalide](img\instancevalide.png)
+![addsrv](img/addsrv.png)
+![instancevalide](img/instancevalide.png)
 
 * Apres avoir attaché les instances, vous pouvez à présent lancer le déployement des applications comme expliqué dans l'article MyCloudManager,
 
