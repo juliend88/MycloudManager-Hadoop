@@ -1,4 +1,4 @@
-# Instrumentalize a Hadoop cluster with My Cloud Manager
+# Instrumentalize Hadoop cluster with MyCloudManager
 
 ![mycloudmanagerimg](img/mycloudmanager.png) ![hadooplogo](img/hadoop-logo.png)
 
