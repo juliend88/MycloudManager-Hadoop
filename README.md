@@ -84,12 +84,9 @@ $InputFileTag yarn:
 $InputRunFileMonitor
 ~~~
 
-* Visualiser les logs via l'interface de Graylog (admin/admin)
+* Visualiser les logs via l'interface de Graylog
 
 ![graylog](img/Graylog.png)
-
-
-
 
 ---
 Have Fun and Hack in Peace
