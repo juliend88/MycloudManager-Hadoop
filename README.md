@@ -4,9 +4,9 @@
 
 ## Lancement des Stacks
 
-Ce tutoriel à pour but de vous montrer comment instrumentaliser votre cluster hadoop avec la stack MyCloudManager.
+Ce tutoriel à pour but de vous montrer comment instrumentaliser votre cluster hadoop avec la stack MyCloudManager de telle sorte de bénéficier de monitoring, supervision, laerting, log management, backup, etc de votre cluster hadoop.
 
-Pour commencer assurez vous d'avoir lancé les stacks dans votre tenant. Si ce n'est pas le cas, je vous invite à regarder les articles suivant :
+Pour commencer assurez vous d'avoir lancé les stacks dans votre tenant. Si ce n'est pas le cas, je vous invite à regrader les articles suivants :
 
 * Démarrer MyCloudManager : http://dev.cloudwatt.com/fr/blog/innovation-beta-mycloudmanager-v2.html
 
